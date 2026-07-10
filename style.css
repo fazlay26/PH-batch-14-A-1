@@ -48,3 +48,62 @@ body {
   font-size: 13px;
   font-weight: 700;
 }
+.hero-section {
+  min-height: 560px;
+  padding: 80px 24px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  background-image: url("./assets/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.hero-container {
+  max-width: 750px;
+  margin: 0 auto;
+  color: #ffffff;
+}
+.hero-container h1 {
+  margin-bottom: 18px;
+
+  font-size: 58px;
+  line-height: 1.1;
+  font-weight: 800;
+}
+
+.hero-container h1 span {
+  font-style: italic;
+}
+.hero-container p {
+  max-width: 650px;
+  margin: 0 auto;
+
+  font-size: 17px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+.hero-button {
+  min-width: 200px;
+  height: 54px;
+  padding: 0 30px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #3d55df;
+  color: #ffffff;
+
+  border-radius: 7px;
+  text-decoration: none;
+
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 30px;
+  cursor: pointer;
+}
