@@ -1,0 +1,1 @@
+AI Prompt:  This is my homepage. I want to add a relevant new section immediately after the pricing section. Please analyze my website and project, then suggest 2–3 section ideas that would fit naturally with the website’s purpose, design, and target audience.git
